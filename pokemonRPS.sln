@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemonRPS", "pokemonRPS\pokemonRPS.csproj", "{86204661-B847-4FB1-A262-34B157A754D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86204661-B847-4FB1-A262-34B157A754D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86204661-B847-4FB1-A262-34B157A754D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86204661-B847-4FB1-A262-34B157A754D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86204661-B847-4FB1-A262-34B157A754D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88175CD8-2FD7-414F-AD97-076CD326077C}
+	EndGlobalSection
+EndGlobal

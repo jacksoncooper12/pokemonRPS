@@ -1,0 +1,70 @@
+﻿body {
+    background-color: #d9d9d9;
+}
+
+.newBG {
+    background-color: #d9d9d9;
+}
+.imgPad{
+    padding-left:50px;
+    padding-right:50px
+}
+.restart-btn{
+    display:none;
+    width:20em;
+    margin-top:1em;
+    background-color:dimgrey;
+    color:white;
+}
+.choiceB:hover{
+    cursor:pointer;
+    background-color:dodgerblue       
+}
+.choiceC:hover {
+    cursor: pointer;
+    background-color: orangered
+}
+.choiceV:hover {
+    cursor: pointer;
+    background-color: forestgreen
+}
+.text-win{
+    color: green;
+}
+.text-lose{
+    color: red;
+}
+.scorePad{
+    padding-top:2em;
+    padding-bottom:2em;
+}
+.red{
+    color: orangered
+}
+.blue{
+    color:dodgerblue
+}
+.green{
+    color: forestgreen
+}
+
+.textPad{
+    padding-top:1em;
+}
+
+.scoreSize{
+    font-size: 20px
+}
+.pScore{
+    background-color: mediumpurple;
+    color:white;
+    font-weight:bold
+}
+.cScore{
+    background-color:tan;
+    color:white;
+    font-weight:bold
+}
+div p{
+    margin-top:16px
+}
