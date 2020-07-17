@@ -66,15 +66,15 @@ function getWinner(p, c) {
 function showWinner(winner, computerChoice) {;
     if (winner === 'player') {
         scoreboard.player++;
-        result.innerHTML = `<h1 class="text-win">You Win!</h1><p>Computer Chose</p><img src="img/${computerChoice}.png" height="200" />`;
+        result.innerHTML = `<h1 class="text-win">You Win!</h1><p>Computer Chose</p><img src="img/${computerChoice}.gif" height="200" />`;
     }
     else if (winner === 'computer') {
         scoreboard.computer++;
-        result.innerHTML = `<h1 class="text-lose">You Lost</h1><p>Computer Chose</p><img src="img/${computerChoice}.png" height="200" />`;
+        result.innerHTML = `<h1 class="text-lose">You Lost</h1><p>Computer Chose</p><img src="img/${computerChoice}.gif" height="200" />`;
     }
 
     else if (winner === 'draw') {
-        result.innerHTML = `<h1>It's a Draw</h1><p>Computer Also Chose</p><img src="img/${computerChoice}.png" height="200" />`;
+        result.innerHTML = `<h1>It's a Draw</h1><p>Computer Also Chose</p><img src="img/${computerChoice}.gif" height="200" />`;
     }
     score.innerHTML = `<div class="col text-center pScore"><p class="scoreSize">Player: ${scoreboard.player}</p></div><div class="col text-center cScore"><p class="scoreSize">Computer: ${scoreboard.computer}</p></div>`;
     modal.style.display = 'block';

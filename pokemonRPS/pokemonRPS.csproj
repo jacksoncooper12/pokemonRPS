@@ -70,6 +70,9 @@
     <Content Include="Code.html" />
     <Content Include="css\main.css" />
     <Content Include="css\modal.css" />
+    <Content Include="img\venus.gif" />
+    <Content Include="img\char.gif" />
+    <Content Include="img\blast.gif" />
     <Content Include="img\blast.png" />
     <Content Include="img\char.png" />
     <Content Include="img\venus.png" />
