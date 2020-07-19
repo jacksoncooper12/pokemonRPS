@@ -70,6 +70,7 @@
     <Content Include="Code.html" />
     <Content Include="css\main.css" />
     <Content Include="css\modal.css" />
+    <Content Include="css\prism.css" />
     <Content Include="img\venus.gif" />
     <Content Include="img\char.gif" />
     <Content Include="img\blast.gif" />
@@ -78,6 +79,7 @@
     <Content Include="img\venus.png" />
     <Content Include="Index.html" />
     <Content Include="script\main.js" />
+    <Content Include="script\prism.js" />
     <Content Include="Solve.html" />
     <Content Include="Web.config" />
   </ItemGroup>
