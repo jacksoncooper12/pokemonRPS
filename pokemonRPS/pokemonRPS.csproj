@@ -71,6 +71,7 @@
     <Content Include="css\main.css" />
     <Content Include="css\modal.css" />
     <Content Include="css\prism.css" />
+    <Content Include="img\favicon.png" />
     <Content Include="img\venus.gif" />
     <Content Include="img\char.gif" />
     <Content Include="img\blast.gif" />
